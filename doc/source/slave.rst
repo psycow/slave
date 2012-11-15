@@ -65,6 +65,14 @@ slave Package
     :undoc-members:
     :show-inheritance:
 
+:mod:`sr850` Module
+-------------------
+
+.. automodule:: slave.sr850
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
 :mod:`types` Module
 -------------------
 
