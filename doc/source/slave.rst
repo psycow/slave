@@ -79,4 +79,5 @@ Subpackages
 .. toctree::
 
     slave.test
+    slave.keithley
 
