@@ -13,5 +13,5 @@ setup(name='Slave',
       author_email='marco.halder@frm2.tum.de',
       url='https://github.com/p3trus/slave',
       description=desc,
-      packages=['slave']
+      packages=['slave', 'slave.test', 'slave.keithley']
 )
